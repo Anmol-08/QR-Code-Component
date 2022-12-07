@@ -20,7 +20,7 @@ A Frontend Mentor project to replicate a given design of a QR code graphic with 
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-solution-DHVUIFg7J)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-irHBpwElk2)
 - Live Site URL: [Live Site](https://github.com/Anmol-08/QR-Code-Component)
 
 ## My process
