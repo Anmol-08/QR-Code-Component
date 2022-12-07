@@ -35,4 +35,4 @@ This was a simple introduction to image and flexbox formatting. Some simple sema
 ## Author
 
 - Website - [My Portfolio](https://github.com/Anmol-08)
-- Frontend Mentor - [@mv805](https://www.frontendmentor.io/profile/Anmol-08)
+- Frontend Mentor - [@Anmol-08](https://www.frontendmentor.io/profile/Anmol-08)
